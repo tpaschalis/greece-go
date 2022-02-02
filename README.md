@@ -22,3 +22,4 @@ Don't hesitate to send if you work for a remote friendly company that employ Go 
 | Company      | Description | Size/Local/Go Devs. | Type of Work |
 | ------------ | ----------- | ------------------- | ------------ |
 | [Beat](https://thebeat.co/gr/) | Ride-hailing | 300+/100+/all | backend / apis / devops |
+| [Simpler](https://www.simpler.so/) | Checkout platform | 10+/10+/4 | backend / apis |
