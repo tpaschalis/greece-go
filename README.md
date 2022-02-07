@@ -26,3 +26,4 @@ Don't hesitate to send if you work for a remote friendly company that employ Go 
 | [BestPrice](https://www.bestprice.gr/) | Price comparison | 10+/10+/4 | backend / apis / devops |
 | [Mattermost](https://www.mattermost.com/) | OSS secure communication/collaboration platform | 150+ / 6+ / all | backend / apis / sres |
 | [Skroutz](https://www.skroutz.gr/) | Price comparison/e-commerce | 150+/150+/ ? | backend / sre |
+| [GWI](https://www.gwi.com/) | Market Research Technology | 80+/30+/15+ | backend / apis |
